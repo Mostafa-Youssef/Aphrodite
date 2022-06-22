@@ -18,7 +18,7 @@ PyYAML==5.3.1
 
 Werkzeug==1.0.1
 
-numpy==1.16.6
+numpy==1.22.0
 
 matplotlib
 
